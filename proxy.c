@@ -1,7 +1,7 @@
 /*
  *  Proxylab
  *
- *  Name: Tianyu Chen
+ *  Auther: Tianyu Chen
  *  Andrew ID: tianyuc
  *  Email: tianyuc@andrew.cmu.edu
  *
@@ -15,7 +15,8 @@
  *      – http://www.cs.cmu.edu/˜213
  *      – http://csapp.cs.cmu.edu
  *      – http://www.cmu.edu
- *      – http://www.cmu.edu
+ *      – http://www.amazon.com
+ *      - http://www.youtube.com
  *    
  *    Some features in this proxy:
  *      - Robust I/O  
